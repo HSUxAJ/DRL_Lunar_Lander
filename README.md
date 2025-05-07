@@ -10,14 +10,12 @@
 pip install -r requirements.txt
 ```
 
----
 
 ##  訓練指令
 ```bash
 python main.py --episodes 5000 --lr 0.01 --gamma 0.99 --batch 10
 ```
 
----
 
 ## 執行指令
 ```bash
@@ -28,7 +26,6 @@ python main.py --checkpoint ./checkpoints/policy_model-1000.pth
 python main.py --checkpoint ./checkpoints/policy_model-1000.pth --render
 ```
 
----
 
 ## 遊戲分數
 
