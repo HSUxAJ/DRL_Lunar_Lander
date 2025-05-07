@@ -1,6 +1,6 @@
 # 🛰️ LunarLander Policy Gradient (REINFORCE)
 
-使用 Policy Gradient (REINFORCE) 方法訓練 `LunarLander-v3` 環境的智能體。支援訓練、模型儲存、評估模式、訓練過程圖像輸出等功能。
+使用 Policy Gradient (REINFORCE) 方法訓練 `LunarLander-v3` 。
 
 ---
 
